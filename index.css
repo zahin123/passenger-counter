@@ -1,0 +1,51 @@
+body {
+    background-image: url("https://images.pexels.com/photos/1444108/pexels-photo-1444108.jpeg?cs=srgb&dl=pexels-vlad-bagacian-1444108.jpg&fm=jpg");
+    background-size: cover;
+    font-family: Cambria, Cochin, Georgia, Times, Times New Roman, serif;
+    font-weight: bold;
+    text-align: center;
+     height: 100vh;
+ 
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+.container {
+    background: white;
+    max-width: 80%;
+    margin: auto;
+    border: 3px solid black;
+    border-radius: 10px;
+    opacity:  0.8 ;
+}
+
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px gray;
+}
+
+#increment-btn {
+    background: darkseagreen;
+}
+
+#save-btn {
+    background: darkslategray;
+}
+
